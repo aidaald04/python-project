@@ -1,4 +1,6 @@
-numbers = [4, 8, 15, 16, 23, 42]
+print(4, 8, 15, 16, 23, 42, sep='  ')
 
-for number in numbers:
-    print(number)
+print(4, 8, 15, 16, 23, 42, sep='\n')
+
+x = int(input("Number: "))
+print(x, x+1, x+1+1, sep='\n')
