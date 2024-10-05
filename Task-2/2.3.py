@@ -1,7 +1,3 @@
-import math
-
-population = int(input("Введите население вселенной: "))
-
-survivors = math.ceil(population / 2)
-
-print(survivors)
+x = int(input())
+x =x/2
+print(round(x))
