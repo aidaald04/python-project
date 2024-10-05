@@ -1,4 +1,4 @@
-first_number = int(input("Введите первое число: "))
+first_number = int(input("Введите первое число"))
 
 print(first_number)
 print(first_number + 1)
